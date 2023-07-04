@@ -67,7 +67,7 @@ axios(url)
     // Serving the static files (CSS file)
     app.use(express.static(path.join(__dirname, 'public')));
 
-    // Starting the server and listen on the specified port
+    //  the server and listen on the specified port
     app.listen(PORT, () => {
       console.log(`Server running on PORT ${PORT}`);
       console.log(`Open http://localhost:${PORT}/ to see the scraped data.`);
