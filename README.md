@@ -15,6 +15,7 @@ cd your-repository
 3. Install the dependencies:
 npm install
 
+### Here is an example of scraping ChatGPT related news on Guardian.
 ![WebScraping](public/WebScraping.png)
 
 ## Usage
