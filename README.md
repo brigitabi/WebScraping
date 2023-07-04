@@ -1,4 +1,4 @@
-# Guardian Web Scraping Project
+# Web Scraping Project with Node.js
 
 This is a Node.js project for web scraping data from The Guardian website, more specifically scraping ChatGPT related news. The project retrieves information about articles related to a specific topic and applies CSS styling for presentation. Part of the project is inspired by Ania's Kubow Youtube tutorial titled: Build a Web Scraper (https://www.youtube.com/watch?v=-3lqUHeZs_0).
 
@@ -14,6 +14,8 @@ cd your-repository
 
 3. Install the dependencies:
 npm install
+
+![WebScraping](public/WebScraping.png)
 
 ## Usage
 
